@@ -54,6 +54,7 @@ Tenho **noções de arquitetura de software, segurança da informação e bancos
 ### 🤝 Vamos nos conectar?
 
 [**GitHub — @renan-bsf**](https://github.com/renan-bsf)
+
 [**LinkedIn - @Renan-bsf**](https://www.linkedin.com/in/renan-bsf/)
 
 > 💡 **"A IA acelera a construção. O pensamento crítico direciona a solução."**
