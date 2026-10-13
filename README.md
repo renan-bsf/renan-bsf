@@ -8,17 +8,15 @@ Utilizo a **Inteligência Artificial como parceira no desenvolvimento**, transfo
 
 Tenho **noções de arquitetura de software, segurança da informação e bancos de dados**, buscando combinar a agilidade do desenvolvimento assistido por IA com organização, pensamento crítico e boas práticas.
 
-> 💡 **"A IA acelera a construção. O pensamento crítico direciona a solução."**
-
 ---
 
 ## 🧠 Minha abordagem
 
-- 🤖 **AI-Driven Development:** desenvolvimento e prototipação assistidos por IA.
-- 🏗️ **Arquitetura:** modularidade, organização e integração entre sistemas.
-- 🔐 **Segurança:** autenticação, permissões e proteção de dados.
-- 🗄️ **Banco de Dados:** modelagem relacional, persistência e integridade.
-- 🎯 **Visão de Produto:** soluções práticas com foco em eficiência e experiência do usuário.
+-  **AI-Driven Development:** desenvolvimento e prototipação assistidos por IA.
+-  **Arquitetura:** modularidade, organização e integração entre sistemas.
+-  **Segurança:** autenticação, permissões e proteção de dados.
+-  **Banco de Dados:** modelagem relacional, persistência e integridade.
+-  **Visão de Produto:** soluções práticas com foco em eficiência e experiência do usuário.
 
 ---
 
@@ -56,5 +54,6 @@ Tenho **noções de arquitetura de software, segurança da informação e bancos
 ### 🤝 Vamos nos conectar?
 
 [**GitHub — @renan-bsf**](https://github.com/renan-bsf)
+[**LinkedIn - @Renan-bsf**](https://www.linkedin.com/in/renan-bsf/)
 
-*Building with AI. Learning by doing. Thinking beyond the code.* 🚀
+> 💡 **"A IA acelera a construção. O pensamento crítico direciona a solução."**
